@@ -1,0 +1,6 @@
+# Spaceship Titanic Kaggle Competition
+
+## Competition Description
+
+In this competition the task is to predict whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with the spacetime anomaly.
+A set of personal records about passengers is given as data. In the test set, the passenger's fate is unknown. The goal is to predict whether the passenger was transported to an alternate dimension or not.
